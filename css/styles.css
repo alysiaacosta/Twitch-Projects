@@ -1,9 +1,38 @@
-h1{
-    color:#009900;
-    
+/*GLOBAL STYLES*/
+
+html, body {
+    height:100%;
+    width:100%;
 }
 
-p{
-    color:#cc0000;
-    
+body{
+    margin:0px;
+    padding:0px;
+    background-color:#F1F1F1;
+    font-family:'Source Sans Pro', Trebuchet MS, sans-serif;
+    font-size:16px;
+    color:#000000;
+    font-weight:600;
 }
+
+body{
+    color:#000000;
+}
+
+h1, h2, h3, h4 {
+    margin:0px;
+    padding:0px;
+    color:#b30000; /* Red */
+}
+
+p {
+    line-height:150%;
+    margin:15px 0px;
+}
+/*HEADER STYLES*/
+
+
+/*BANNER STYLES*/
+
+
+/*FOOTER STYLES*/
